@@ -1,4 +1,4 @@
-![Ironhack Logo](https://bit.ly/2VnXWr2)
+![](https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/ajracsdqu5gmyfl6nai0)
 
 # Tableau Project:   
 
