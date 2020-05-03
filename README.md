@@ -1,4 +1,4 @@
-![Ironhack Logo](https://bit.ly/2VnXWr2)Format ![Ironhack Logo](https://bit.ly/2VnXWr2)
+![Ironhack Logo](https://bit.ly/2VnXWr2)
 
 # Tableau Project:   
 
