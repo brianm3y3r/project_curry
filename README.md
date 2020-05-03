@@ -1,4 +1,4 @@
-img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+![Ironhack Logo](https://bit.ly/2VnXWr2)Format ![Ironhack Logo](https://bit.ly/2VnXWr2)
 
 # Tableau Project:   
 
